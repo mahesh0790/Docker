@@ -20,4 +20,7 @@ ENV CATALINA_SH /usr/share/tomcat7/bin/catalina.sh
 ENV CATALINA_TMDIR 
 
 
+EXPOSE 80
 
+
+ENTRYPOINT []
